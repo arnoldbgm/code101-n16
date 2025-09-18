@@ -1,4 +1,4 @@
-# Platos de comida Peruana
+# Platos de comida 
 
 ## Titulo 2
 
