@@ -1,0 +1,39 @@
+* {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+
+
+body {
+   background-color: hsl(30, 38%, 92%);
+}
+
+main {
+   display: flex;
+}
+
+main>img {
+   height: 450px;
+   border-radius: 16px 0 0 16px;
+}
+
+main>section {
+   border: 1px solid red;
+   width: 300px;
+   border-radius: 0 16px 16px 0;
+   background-color: #fff;
+   padding: 32px;
+}
+
+section>h2 {
+   font-family: "Montserrat", sans-serif;
+   font-weight: 400;
+   font-size: 12px;
+   letter-spacing: 4px;
+   margin-bottom: 16px;
+}
+
+section>h1{
+   font-family: "Fraunces", serif;
+}
